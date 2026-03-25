@@ -29,10 +29,7 @@ As a *Student Digital Ambassador*, this project demonstrates how students can ef
      ---
 
 ### 🔹 Task 2: Student Digital Portfolio
-📸  Take screenshots of the profile,
-- GitHub  
-- LinkedIn  
-- HackerRank
+Build Your Student Digital Protfolio
 ---
 
   
