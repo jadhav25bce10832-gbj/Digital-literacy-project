@@ -32,6 +32,7 @@ As a *Student Digital Ambassador*, this project demonstrates how students can ef
 
 ### 🔹 Task 2: Student Digital Portfolio
 Build Your Student Digital Protfolio
+#### GitHub Profile
 ![GitHub Profile](task-2-portfolio/github-profile-1.png)
 ![GitHub Profile](task-2-portfolio/github-profile-2.png)
 
