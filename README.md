@@ -26,3 +26,13 @@ As a *Student Digital Ambassador*, this project demonstrates how students can ef
 
 ### 🔹 Task 1: Digital Literacy Infographic
    - Created an infographic using Canva
+     ---
+
+### 🔹 Task 2: Student Digital Portfolio
+Profiles created on:
+- GitHub  
+- LinkedIn  
+- HackerRank  
+
+📸 Screenshots are available in the folder.
+
