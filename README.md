@@ -50,9 +50,24 @@ Build Your Student Digital Protfolio
 
 📸 Screenshots of beginner-level problem solved on HackerRank  
 
-- Created a *Digital Literacy Awareness Quiz* using Google Forms  
+#### HackerRank Solution
+![HackerRank Solution](task-3-platforms/hackerrank-solution.png)
 
-🔗 *Google Form Link:* (Paste your form link here)
+- Created a *Digital Literacy Awareness Quiz* using Google Forms
+- #### Google Form (Digital Literacy Awareness Quiz)
 
+![Google Form](task-3-platforms/google-form-1.png)
+
+![Google Form](task-3-platforms/google-form-2.png)
+![Google Form](task-3-platforms/google-form-3.png)
+
+
+
+🔗 *Google Form Link:* https://docs.google.com/forms/d/e/1FAIpQLScDXVf3yNg2wUqyHdSgeMl4gwuWZeDc1WhqKIXyLPQfQdcl6Q/viewform?usp=publish-editor
+
+
+#### Responses
+
+![Google Response](task-3-platforms/google-response.png)
 ---  
 
