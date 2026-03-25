@@ -46,5 +46,11 @@ Build Your Student Digital Protfolio
 
 ---
 
-  
+### 🔹 Task 3: Coding & Collaboration Platforms
+- Completed a beginner-level problem on HackerRank  
+- Created a *Digital Literacy Awareness Quiz* using Google Forms  
+
+🔗 *Google Form Link:* (Paste your form link here)
+
+---  
 
