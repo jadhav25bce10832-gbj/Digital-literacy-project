@@ -37,8 +37,8 @@ Build Your Student Digital Protfolio
 ![GitHub Profile](task-2-portfolio/github-profile-2.png)
 
 #### LinkedIn Profile
-![linkedin Profile](task-2-portfolio/github-profile-1.png)
-![linkedin Profile](task-2-portfolio/github-profile-2.png)
+![linkedin Profile](task-2-portfolio/linkedin-profile-1.png)
+![linkedin Profile](task-2-portfolio/linkedin-profile-2.png)
 
 #### HackerRank Profile
 ![HackerRank Profile](task-2-portfolio/hackerrank-profile.png)
