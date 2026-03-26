@@ -77,7 +77,8 @@ Build Your Student Digital Protfolio
 - Created a Social Media Do’s & Don’ts checklist
 
 📂 Files are available in the folder:
-task-4-email-etiquette/ 
+task-4-email-etiquette/emails.txt
+task-4-email-etiquette/social-media-checklist.txt
 
 ---
 
