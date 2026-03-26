@@ -31,7 +31,7 @@ As a *Student Digital Ambassador*, this project demonstrates how students can ef
      ---
 
 ### 🔹 Task 2: Student Digital Portfolio
-Build Your Student Digital Protfolio
+
 #### GitHub Profile
 ![GitHub Profile](task-2-portfolio/github-profile-1.png)
 ![GitHub Profile](task-2-portfolio/github-profile-2.png)
@@ -48,7 +48,7 @@ Build Your Student Digital Protfolio
 
 ### 🔹 Task 3: Coding & Collaboration Platforms
 
-📸 Screenshot of beginner-level problem solved on HackerRank  
+
 
 #### HackerRank Solution
 ![HackerRank Solution](task-3-platforms/hackerrank-solution.png)
@@ -77,8 +77,11 @@ Build Your Student Digital Protfolio
 - Created a Social Media Do’s & Don’ts checklist
 
 📂 Files are available in the folder:
-task-4-email-etiquette/emails.txt
-task-4-email-etiquette/social-media-checklist.txt
+#### Email Drafts
+[View Emails](task-4-email-etiquette/emails.txt)
+
+#### Social Media Checklist
+[View Checklist](task-4-email-etiquette/social-media-checklist.txt)
 
 ---
 
