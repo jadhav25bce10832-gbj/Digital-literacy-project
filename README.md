@@ -48,7 +48,7 @@ Build Your Student Digital Protfolio
 
 ### 🔹 Task 3: Coding & Collaboration Platforms
 
-📸 Screenshots of beginner-level problem solved on HackerRank  
+📸 Screenshot of beginner-level problem solved on HackerRank  
 
 #### HackerRank Solution
 ![HackerRank Solution](task-3-platforms/hackerrank-solution.png)
@@ -70,3 +70,10 @@ Build Your Student Digital Protfolio
 ![Google Response](task-3-platforms/google-response.png)
 ---  
 
+### 🔹 Task 4: Email Etiquette
+- Drafted two professional emails:
+  - Assignment extension request  
+  - Internship application  
+- Created a Social Media Do’s & Don’ts checklist  
+
+---
