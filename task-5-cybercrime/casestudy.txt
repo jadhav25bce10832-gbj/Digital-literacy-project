@@ -1,1 +1,5 @@
-
+Topic: Phishing Attack
+Phishing is a type of cybercrime where attackers try to steal sensitive information like passwords, bank details, or personal data by pretending to be a trusted source. It usually happens through fake emails, messages, or websites.
+In a typical phishing attack, a user receives a message that looks like it is from a bank or a trusted company. The message contains a link that directs the user to a fake website. When the user enters their login details, the attacker collects the information.
+Students and online users are common targets because they often click on unknown links without verifying them. The consequences of phishing include financial loss, identity theft, and misuse of personal data.
+To stay safe, users should avoid clicking on suspicious links, verify the sender, and use secure websites. Awareness and careful behavior are the best ways to prevent such attacks.
