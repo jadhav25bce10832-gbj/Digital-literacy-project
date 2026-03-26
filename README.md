@@ -74,7 +74,10 @@ Build Your Student Digital Protfolio
 - Drafted two professional emails:
   - Assignment extension request  
   - Internship application  
-- Created a Social Media Do’s & Don’ts checklist  
+- Created a Social Media Do’s & Don’ts checklist
+
+📂 Files are available in the folder:
+task-4-email-etiquette/ 
 
 ---
 
@@ -83,6 +86,11 @@ Build Your Student Digital Protfolio
 - Created a case study on phishing attack explaining how the fraud happens and its impact  
 - Prepared a "Stay Safe Online" checklist with prevention tips for students  
 
+#### Case Study
+[View Case Study](task-5-cybercrime/casestudy.txt)
+
+#### Prevention Checklist
+[View Checklist](task-5-cybercrime/prevention-checklist.txt)
 
 ---
 
