@@ -58,7 +58,7 @@ Build Your Student Digital Protfolio
 
 ![Google Form](task-3-platforms/google-form-1.png)
 ![Google Form](task-3-platforms/google-form-2.png)
-
+![Google Form](task-3-platforms/google-form-3.png)
 
 
 
