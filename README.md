@@ -77,3 +77,13 @@ Build Your Student Digital Protfolio
 - Created a Social Media Do’s & Don’ts checklist  
 
 ---
+
+### 🔹 Task 5: Cybercrime Awareness
+- Case Study on *Phishing Attack*  
+- Created a *Stay Safe Online Checklist*  
+
+📢 *Report cybercrime:* https://cybercrime.gov.in  
+📞 *Helpline:* 1930  
+
+---
+
