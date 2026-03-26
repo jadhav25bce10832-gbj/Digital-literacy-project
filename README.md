@@ -78,12 +78,11 @@ Build Your Student Digital Protfolio
 
 ---
 
-### 🔹 Task 5: Cybercrime Awareness
-- Case Study on *Phishing Attack*  
-- Created a *Stay Safe Online Checklist*  
+ ### 🔹 Task 5: Cybercrime Awareness
 
-📢 *Report cybercrime:* https://cybercrime.gov.in  
-📞 *Helpline:* 1930  
+- Created a case study on phishing attack explaining how the fraud happens and its impact  
+- Prepared a "Stay Safe Online" checklist with prevention tips for students  
+
 
 ---
 
